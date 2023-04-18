@@ -103,9 +103,11 @@ const config = {
               },
             ],
           },
+          */
           {
             title: 'Community',
             items: [
+              /*
               {
                 label: 'Stack Overflow',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -118,8 +120,14 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
               },
+              */
+              {
+                label: 'Ladiocast Feedback Board',
+                href: 'https://kawauso.canny.io/ladiocast',
+              },
             ],
           },
+          /*
           {
             title: 'More',
             items: [
