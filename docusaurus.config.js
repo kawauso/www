@@ -88,6 +88,7 @@ const config = {
             position: 'right',
           },
           */
+          {type: 'localeDropdown', position: 'left'},
         ],
       },
       footer: {
