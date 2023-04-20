@@ -123,7 +123,7 @@ const config = {
               },
               */
               {
-                label: 'Ladiocast Feedback Board (Canny)',
+                label: 'Ladiocast Feedback Board (by Canny)',
                 href: 'https://kawauso.canny.io/ladiocast',
               },
             ],
