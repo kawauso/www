@@ -29,7 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'ja'],
   },
 
   presets: [
@@ -88,7 +88,7 @@ const config = {
             position: 'right',
           },
           */
-          {type: 'localeDropdown', position: 'left'},
+          {type: 'localeDropdown', position: 'right'},
         ],
       },
       footer: {
@@ -123,7 +123,7 @@ const config = {
               },
               */
               {
-                label: 'Ladiocast Feedback Board',
+                label: 'Ladiocast Feedback Board (Canny)',
                 href: 'https://kawauso.canny.io/ladiocast',
               },
             ],
