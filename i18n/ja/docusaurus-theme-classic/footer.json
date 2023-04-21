@@ -5,7 +5,7 @@
   },
   "link.item.label.Ladiocast Feedback Board (by Canny)": {
     "message": "Ladiocast フィードバック・ボード (by Canny)",
-    "description": "The label of footer link with label=Ladiocast Feedback Board linking to https://kawauso.canny.io/ladiocast"
+    "description": "The label of footer link with label=Ladiocast Feedback Board (by Canny) linking to https://kawauso.canny.io/ladiocast"
   },
   "copyright": {
     "message": "Copyright © 2023 kawauso.com. Built with Docusaurus.",
