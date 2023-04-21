@@ -25,7 +25,7 @@ function HomepageHeader() {
         </div>
         */}
         <Translate description="The homepage main heading">
-          Welcome to my Docusaurus translated site!
+          Welcome to my new website (by Docusaurus).
         </Translate>
       </div>
     </header>

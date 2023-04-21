@@ -270,8 +270,8 @@
     "message": "タグ",
     "description": "The title of the tag list page"
   },
-  "Welcome to my Docusaurus translated site!": {
-    "message": "私のDocusaurus日本語サイトへようこそ！",
+  "Welcome to my new website (by Docusaurus).": {
+    "message": "私の新しいウェブサイト(by Docusaurus)へようこそ",
     "description": "The homepage main heading"
   }
 }
